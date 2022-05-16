@@ -1,0 +1,27 @@
+{
+  "name": "root_pratyush",
+  "version": "1.0.1",
+  "description": "just checking out",
+  "main": "hello.js",
+  "scripts": {
+    "test": "adding"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pratyush1425/javascript.git"
+  },
+  "keywords": [
+    "a",
+    "b"
+  ],
+  "author": "pratyush",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pratyush1425/javascript/issues"
+  },
+  "homepage": "https://github.com/pratyush1425/javascript#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "devDependencies": {}
+}
